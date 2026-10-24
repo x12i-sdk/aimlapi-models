@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Offline JSON-backed AI/ML API / 302.ai unified proxy catalog (200+ models).
-- An application needs the versioned aimlapi-models definitions or bundled content instead of maintaining its own copy.
+- List the bundled AI/ML API catalog without calling its remote service.
+- Inspect a model record before constructing a provider-specific request.
 
 ## Links
 
