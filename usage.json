@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "aimlapi-models",
+  "packageVersion": "0.3.0",
+  "npmUrl": "https://www.npmjs.com/package/aimlapi-models",
+  "usageRepository": "https://github.com/x12i-sdk/aimlapi-models",
+  "sourceRepository": "https://github.com/x12i/ai-profiles",
+  "sourceCommit": "8efd4dc11dfaacab2ceef9f030a4a3fa7da00800",
+  "sourcePackageDirectory": "packages/aimlapi-models",
+  "example": {
+    "title": "Look up models in the bundled offline catalog",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:33:12.066787+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "da147036847686c3b6b94e38a8cf9acbc1e64cb14451f90cbb083a5665e6278e",
+    "manifestSha256": "cc66f9c2da545d9ae5fde58d66a3646db352bc7d2447595026a51620eb46c897"
+  }
+}
